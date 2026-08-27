@@ -1,5 +1,6 @@
 # homebrew-omniroute
 
+
 Homebrew tap for [OmniRoute](https://omniroute.online) — a unified AI router with 160+ providers, compression, auto fallback, MCP/A2A, and OpenAI-compatible APIs.
 
 ## Install
