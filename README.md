@@ -1,12 +1,13 @@
 # homebrew-omniroute
 
+Homebrew tap for [OmniRoute](https://omniroute.online) — a unified AI router with 160+ providers, compression, auto fallback, MCP/A2A, desktop/PWA, and OpenAI-compatible APIs.
 
-Homebrew tap for [OmniRoute](https://omniroute.online) — a unified AI router with 160+ providers, compression, auto fallback, MCP/A2A, and OpenAI-compatible APIs.
+**Upstream:** [omniroute/omniroute](https://github.com/omniroute/omniroute)
 
 ## Install
 
 ```sh
-brew tap <your-user>/omniroute
+brew tap coetzeer/omniroute
 brew install omniroute
 ```
 
